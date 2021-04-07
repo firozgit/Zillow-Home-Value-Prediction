@@ -7,7 +7,7 @@ Zillow's **Zestimate** are the estimated home values based on 7.5 million statis
 
 The log error is defined as **logerror=log(Zestimate)−log(SalePrice)**
 
-Throughout the notebooks in this repository, we will use the given property data and transaction data to predict the logerror. S
+Throughout the notebooks in this repository, we will use the given property data and transaction data to predict the logerror. 
 
 Some of the functions and classes are written in forms of scripts that can be reused whenever required. 
 
